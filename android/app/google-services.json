@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914284721174",
+    "project_id": "echodops",
+    "storage_bucket": "echodops.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914284721174:android:1e353c78bf25380527b137",
+        "android_client_info": {
+          "package_name": "com.example.echodops"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAeS6Bniz_PpM7crEsyizb2zjWLPsRJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
